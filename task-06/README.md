@@ -9,7 +9,7 @@ But it was all worth it when I saw my game running on the emulator.
 
 I faced a lot of problems during installation of flutter,android studio,emulator setting, though it was not 
 a big issue but it was my first time so I felt like it was bit difficult to cope up because I was facing so many
-errors. Atlast I completed the setup part within two days and then the major part comes coding part. As I never
+errors. Atlast I completed the setup part within two days and then comes the major part that is coding . As I never
 heard about flutter, Flame engine and dart language. So all these terms were very new to me. I had no better 
 option than youtube videos and googling to get started .But I wasted a lot of time watching the video , I thought
 It would be helpful but it was not ,I found googling was the best option so I started reading articles related to 2D games
