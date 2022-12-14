@@ -1,5 +1,5 @@
 # amfoss_tasks @priti200
-## PRITI GUPTA 
+## PRITI GUPTA   [Introspection](https://github.com/priti200/amfoss_tasks/tree/main/Introspection)
 **I  am  Priti  Gupta  from  Kapilvastu  Nepal,  fresher at  Amrita  Scool  of  Computing  from  CSE  Branch.**
 |TASK|DESCRIPTION|STATUS|
 |----|:---------------:|---------|
