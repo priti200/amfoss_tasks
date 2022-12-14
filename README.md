@@ -1,8 +1,9 @@
 # amfoss_tasks @priti200
-## PRITI GUPTA   [Introspection](https://github.com/priti200/amfoss_tasks/tree/main/Introspection)
+## PRITI GUPTA   
 **I  am  Priti  Gupta  from  Kapilvastu  Nepal,  fresher at  Amrita  Scool  of  Computing  from  CSE  Branch.**
 |TASK|DESCRIPTION|STATUS|
 |----|:---------------:|---------|
+|[Introspection](https://github.com/priti200/amfoss_tasks/tree/main/Introspection)| Overview|Completed|
 |[task-0](https://github.com/priti200/amfoss_tasks/tree/main/task-00)   |Installing Ubuntu|Completed|
 |[task-1](https://github.com/priti200/amfoss_tasks/tree/main/task-01)   |Star all the amFOSS repositories	|Completed|
 |[task-2](https://github.com/priti200/amfoss_tasks/tree/main/task-02)   |Terminal Hunt                    |Completed|
